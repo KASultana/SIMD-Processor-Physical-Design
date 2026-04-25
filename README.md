@@ -1,13 +1,6 @@
 # SIMD-Processor-Physical-Design
 16-bit SIMD Processor – Physical Design Implementation **Focus:** Full RTL-to-GDSII flow using **Cadence** tools.
 
-### 🛠️ EDA Tools & Methodology
-- **Physical Design Tool:** Cadence Innovus / Encounter
-- **Process Node:** Standard Cell Library based Physical Implementation
-- **Flow:** Complete RTL-to-GDSII (Synthesis, Floorplanning, CTS, Routing, Sign-off)
-- **Synthesis:** Gate-level netlist generation.
-- **DRC/STA:** Timing closure and physical verification.
-
 ---
 # 16-bit SIMD Processor – Physical Design Implementation
 
@@ -84,6 +77,13 @@ The focus of this project is full RTL-to-GDSII Physical Design Flow.
 
 All DRC, connectivity, and glitch violations were successfully resolved.
 
+---
+### 🛠️ EDA Tools & Methodology
+- **Physical Design Tool:** Cadence Innovus / Encounter
+- **Process Node:** Standard Cell Library based Physical Implementation
+- **Flow:** Complete RTL-to-GDSII (Synthesis, Floorplanning, CTS, Routing, Sign-off)
+- **Synthesis:** Gate-level netlist generation.
+- **DRC/STA:** Timing closure and physical verification.
 ---
 ## Key Learning Outcomes
 
