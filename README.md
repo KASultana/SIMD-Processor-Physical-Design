@@ -77,7 +77,12 @@ The focus of this project is full RTL-to-GDSII Physical Design Flow.
 All DRC, connectivity, and glitch violations were successfully resolved.
 
 ---
+## 🛠️ Tools Used
+- **Cadence Innovus / Encounter:** For the full Physical Design implementation.
+- **Synthesis:** Gate-level netlist generation.
+- **DRC/STA:** Timing closure and physical verification.
 
+---
 ## Key Learning Outcomes
 
 - End-to-end Physical Design flow
